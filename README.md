@@ -21,4 +21,4 @@ The dataset used for this project is the MNIST dataset composed of a 70,000 imag
 </p>
 
 ## Results
-This is the progress on the Generator of my Vanilla GAN in only 100 epochs!
+WGAN are a lot more stable when training (the losses of G and D barely change). One way of checking the progress of the learning is by regularily plotting the Wasserstein distance between a real sample and a generated sample.
