@@ -5,5 +5,5 @@ Here is the algorithm of the WGAN as presented in the initial paper:
 
 
 <p align="center">
-<img src="WCGAN_algo.png" alt="MNIST dataset" width="500"/>
+<img src="WCGAN_algo.png" alt="WCGAN algorithm" width="700"/>
 </p>
